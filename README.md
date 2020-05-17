@@ -15,6 +15,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Code reviewing like a champion](https://www.youtube.com/watch?v=1IOu2b4KTyU)
 * [The Art of Code Reviews](https://www.slideshare.net/ThiagoPorcincula/the-art-of-code-reviews)
 * [Building a code review culture](https://www.youtube.com/watch?v=I0_N5MBYB5s)
+* [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/five-code-review-antipatterns)
 * [Code Review](https://github.com/thoughtbot/guides/tree/master/code-review)
 * [Code review: Why are we doing it?](https://codurance.com/2015/09/29/codereview/)
 * [13 Practices for Better Code Reviews](https://www.infoq.com/articles/practices-better-code-reviews/?utm_source=twitter&utm_medium=qcon&utm_campaign=calendar)
