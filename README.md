@@ -19,6 +19,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Code Review](https://github.com/thoughtbot/guides/tree/master/code-review)
 * [Code review: Why are we doing it?](https://codurance.com/2015/09/29/codereview/)
 * [13 Practices for Better Code Reviews](https://www.infoq.com/articles/practices-better-code-reviews/?utm_source=twitter&utm_medium=qcon&utm_campaign=calendar)
+* [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 * [Code review / Pull request](https://avito-tech.github.io/avito-android/docs/contributing/codereview/)
 * [10 tips for better Pull Requests](https://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/)
 * [On Empathy & Pull Requests](https://slack.engineering/on-empathy-pull-requests-979e4257d158)
