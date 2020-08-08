@@ -25,6 +25,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [On Empathy & Pull Requests](https://slack.engineering/on-empathy-pull-requests-979e4257d158)
 * [How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
 * [The WIP Pull Request](https://ben.straub.cc/2015/04/02/wip-pull-request/)
+* [The Art of Pull Requests](https://medium.com/hackernoon/the-art-of-pull-requests-6f0f099850f9)
 
 ## Usage
 
