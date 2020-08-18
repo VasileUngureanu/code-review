@@ -26,6 +26,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
 * [The WIP Pull Request](https://ben.straub.cc/2015/04/02/wip-pull-request/)
 * [The Art of Pull Requests](https://medium.com/hackernoon/the-art-of-pull-requests-6f0f099850f9)
+* [Great Code Reviews—The Superpower Your Team Needs](https://engineering.shopify.com/blogs/engineering/great-code-reviews)
 
 ## Usage
 
